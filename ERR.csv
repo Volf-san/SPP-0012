@@ -1,0 +1,562 @@
+File Output Time:,25.06.2024 10:27:08
+System:,RSEL
+
+ROM Type,Version   ,Date
+Main_A,V1.09,2021/04/07 15:00:00
+
+Axis group1 axis configuration information,Actuator type,Actuator serial code,Driver unit version,Driver unit serial code
+Axis1(Unit1 Drv0),,B30330754       ,AA17000D,B30330759       
+Axis2(Unit2 Drv0),,B30330756       ,AA17000D,B30330762       
+Axis3(Unit3 Drv0),,B30330757       ,AA17000D,B30330763       
+Axis group2 axis configuration information,Actuator type,Actuator serial code,Driver unit version,Driver unit serial code
+Axis1(Unit0 Drv0),RCP6-SA4C,B30451462       ,AE5A000C,B30451463       
+
+No.,Err,Message,Date,Prg. No.,Step No.,Axes Grp. No.,Axis No.,Unit No.,Drv. No.,Pos. No.,Dtl. code,Info. 1,Info. 2,Info. 3,Info. 4
+1,101,Controller power-on log,2024/06/25 17:00:04,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+2,60C,Fieldbus FBRS link error,2024/06/21 16:53:31,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+3,101,Controller power-on log,2024/06/21 16:13:37,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+4,60C,Fieldbus FBRS link error,2024/06/20 21:55:40,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+5,101,Controller power-on log,2024/06/20 14:56:16,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+6,60C,Fieldbus FBRS link error,2024/06/19 22:40:42,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+7,101,Controller power-on log,2024/06/19 19:20:26,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+8,60C,Fieldbus FBRS link error,2024/06/18 21:48:24,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+9,101,Controller power-on log,2024/06/18 14:09:37,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+10,60C,Fieldbus FBRS link error,2024/06/17 22:21:26,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+11,101,Controller power-on log,2024/06/17 19:53:46,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+12,60C,Fieldbus FBRS link error,2024/06/17 19:08:38,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+13,101,Controller power-on log,2024/06/17 14:46:50,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+14,60C,Fieldbus FBRS link error,2024/06/14 21:16:11,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+15,101,Controller power-on log,2024/06/14 13:59:13,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+16,60C,Fieldbus FBRS link error,2024/06/13 22:05:33,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+17,101,Controller power-on log,2024/06/13 13:55:34,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+18,60C,Fieldbus FBRS link error,2024/06/12 22:13:16,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+19,101,Controller power-on log,2024/06/12 15:00:57,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+20,60C,Fieldbus FBRS link error,2024/06/11 23:03:03,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+21,101,Controller power-on log,2024/06/11 19:18:54,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+22,60C,Fieldbus FBRS link error,2024/06/10 23:08:22,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+23,101,Controller power-on log,2024/06/10 17:31:16,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+24,60C,Fieldbus FBRS link error,2024/06/10 17:24:13,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+25,101,Controller power-on log,2024/06/10 14:01:06,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+26,60C,Fieldbus FBRS link error,2024/06/07 21:35:00,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+27,47A,Servo error,2024/06/07 17:17:53,141,27,2,1,0,0,1,4CBh,C1h,C8F1h,11h,4441h
+28,101,Controller power-on log,2024/06/07 14:02:18,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+29,60C,Fieldbus FBRS link error,2024/06/07 00:25:32,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+30,101,Controller power-on log,2024/06/06 15:43:32,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+31,60C,Fieldbus FBRS link error,2024/06/06 14:41:11,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+32,101,Controller power-on log,2024/06/06 14:03:45,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+33,60C,Fieldbus FBRS link error,2024/06/05 21:16:39,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+34,101,Controller power-on log,2024/06/05 14:34:40,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+35,60C,Fieldbus FBRS link error,2024/06/04 22:09:50,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+36,101,Controller power-on log,2024/06/04 13:57:24,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+37,60C,Fieldbus FBRS link error,2024/06/03 22:36:16,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+38,4AC,Current location soft limit over error,2024/06/03 22:11:00,0,0,2,1,0,0,0,C74h,D9h,C871h,11h,4441h
+39,101,Controller power-on log,2024/06/03 14:35:02,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+40,60C,Fieldbus FBRS link error,2024/05/31 21:53:15,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+41,101,Controller power-on log,2024/05/31 16:54:00,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+42,60C,Fieldbus FBRS link error,2024/05/31 16:39:30,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+43,101,Controller power-on log,2024/05/31 16:37:30,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+44,60C,Fieldbus FBRS link error,2024/05/31 16:31:57,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+45,101,Controller power-on log,2024/05/31 16:26:59,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+46,60C,Fieldbus FBRS link error,2024/05/31 15:46:42,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+47,101,Controller power-on log,2024/05/31 14:47:40,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+48,60C,Fieldbus FBRS link error,2024/05/30 22:55:28,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+49,101,Controller power-on log,2024/05/30 19:51:56,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+50,60C,Fieldbus FBRS link error,2024/05/30 19:51:35,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+51,47A,Servo error,2024/05/30 19:31:34,141,27,2,1,0,0,1,4CBh,C1h,C8F1h,11h,4441h
+52,101,Controller power-on log,2024/05/30 13:06:54,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+53,60C,Fieldbus FBRS link error,2024/05/29 23:55:25,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+54,101,Controller power-on log,2024/05/29 12:43:04,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+55,60C,Fieldbus FBRS link error,2024/05/28 23:54:00,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+56,101,Controller power-on log,2024/05/28 14:15:22,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+57,60C,Fieldbus FBRS link error,2024/05/27 22:51:26,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+58,101,Controller power-on log,2024/05/27 14:09:23,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+59,60C,Fieldbus FBRS link error,2024/05/24 22:05:44,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+60,101,Controller power-on log,2024/05/24 14:00:13,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+61,60C,Fieldbus FBRS link error,2024/05/23 22:55:15,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+62,101,Controller power-on log,2024/05/23 15:02:23,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+63,60C,Fieldbus FBRS link error,2024/05/22 22:17:38,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+64,101,Controller power-on log,2024/05/22 14:01:49,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+65,60C,Fieldbus FBRS link error,2024/05/21 22:26:10,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+66,101,Controller power-on log,2024/05/21 14:17:23,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+67,60C,Fieldbus FBRS link error,2024/05/20 22:17:00,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+68,101,Controller power-on log,2024/05/20 18:20:13,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+69,60C,Fieldbus FBRS link error,2024/05/17 21:37:01,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+70,101,Controller power-on log,2024/05/17 13:01:27,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+71,60C,Fieldbus FBRS link error,2024/05/16 22:14:44,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+72,101,Controller power-on log,2024/05/16 14:39:36,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+73,60C,Fieldbus FBRS link error,2024/05/15 22:43:44,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+74,101,Controller power-on log,2024/05/15 20:14:41,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+75,60C,Fieldbus FBRS link error,2024/05/15 20:14:16,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+76,101,Controller power-on log,2024/05/15 16:05:14,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+77,60C,Fieldbus FBRS link error,2024/05/14 23:41:40,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+78,101,Controller power-on log,2024/05/14 15:32:51,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+79,60C,Fieldbus FBRS link error,2024/05/14 15:30:54,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+80,101,Controller power-on log,2024/05/14 15:14:11,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+81,60C,Fieldbus FBRS link error,2024/05/13 21:27:02,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+82,101,Controller power-on log,2024/05/13 15:22:44,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+83,60C,Fieldbus FBRS link error,2024/05/10 20:34:03,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+84,101,Controller power-on log,2024/05/10 14:55:08,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+85,60C,Fieldbus FBRS link error,2024/05/09 21:08:05,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+86,101,Controller power-on log,2024/05/09 16:21:14,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+87,60C,Fieldbus FBRS link error,2024/05/09 16:20:57,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+88,101,Controller power-on log,2024/05/09 14:29:31,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+89,60C,Fieldbus FBRS link error,2024/05/07 22:08:47,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+90,101,Controller power-on log,2024/05/07 20:01:03,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+91,60C,Fieldbus FBRS link error,2024/05/06 22:11:09,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+92,101,Controller power-on log,2024/05/06 14:25:03,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+93,60C,Fieldbus FBRS link error,2024/05/03 22:48:10,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+94,101,Controller power-on log,2024/05/03 14:11:17,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+95,60C,Fieldbus FBRS link error,2024/05/02 21:51:45,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+96,101,Controller power-on log,2024/05/02 14:09:37,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+97,60C,Fieldbus FBRS link error,2024/04/30 22:02:02,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+98,101,Controller power-on log,2024/04/30 14:12:13,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+99,60C,Fieldbus FBRS link error,2024/04/30 14:10:28,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+100,101,Controller power-on log,2024/04/30 14:09:45,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+101,60C,Fieldbus FBRS link error,2024/04/29 23:37:01,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+102,101,Controller power-on log,2024/04/29 14:34:47,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+103,60C,Fieldbus FBRS link error,2024/04/26 22:00:54,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+104,101,Controller power-on log,2024/04/26 13:40:03,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+105,60C,Fieldbus FBRS link error,2024/04/25 22:15:21,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+106,101,Controller power-on log,2024/04/25 14:28:27,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+107,60C,Fieldbus FBRS link error,2024/04/25 00:25:10,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+108,101,Controller power-on log,2024/04/24 14:41:24,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+109,60C,Fieldbus FBRS link error,2024/04/24 01:31:19,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+110,101,Controller power-on log,2024/04/23 16:10:53,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+111,60C,Fieldbus FBRS link error,2024/04/23 16:10:31,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+112,101,Controller power-on log,2024/04/23 14:04:30,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+113,60C,Fieldbus FBRS link error,2024/04/23 01:52:29,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+114,101,Controller power-on log,2024/04/22 14:11:03,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+115,60C,Fieldbus FBRS link error,2024/04/19 23:52:55,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+116,101,Controller power-on log,2024/04/19 14:08:44,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+117,60C,Fieldbus FBRS link error,2024/04/18 23:51:36,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+118,101,Controller power-on log,2024/04/18 14:49:37,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+119,60C,Fieldbus FBRS link error,2024/04/17 23:51:57,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+120,101,Controller power-on log,2024/04/17 14:20:54,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+121,60C,Fieldbus FBRS link error,2024/04/17 00:22:31,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+122,101,Controller power-on log,2024/04/16 15:00:46,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+123,60C,Fieldbus FBRS link error,2024/04/16 01:53:24,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+124,101,Controller power-on log,2024/04/15 15:21:39,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+125,60C,Fieldbus FBRS link error,2024/04/13 01:41:22,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+126,101,Controller power-on log,2024/04/12 16:20:47,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+127,60C,Fieldbus FBRS link error,2024/01/12 19:46:13,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+128,101,Controller power-on log,2024/01/12 19:40:45,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+129,60C,Fieldbus FBRS link error,2024/01/12 19:18:35,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+130,101,Controller power-on log,2024/01/12 17:12:13,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+131,60C,Fieldbus FBRS link error,2024/01/12 17:11:58,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+132,101,Controller power-on log,2024/01/12 08:19:05,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+133,60C,Fieldbus FBRS link error,2024/01/11 21:31:32,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+134,101,Controller power-on log,2024/01/11 09:54:32,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+135,60C,Fieldbus FBRS link error,2024/01/09 18:26:36,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+136,101,Controller power-on log,2024/01/09 13:54:06,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+137,60C,Fieldbus FBRS link error,2024/01/09 11:36:10,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+138,101,Controller power-on log,2024/01/09 11:03:13,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+139,60C,Fieldbus FBRS link error,2023/12/27 18:42:37,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+140,101,Controller power-on log,2023/12/27 11:03:05,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+141,60C,Fieldbus FBRS link error,2023/12/26 19:42:11,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+142,101,Controller power-on log,2023/12/26 08:04:29,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+143,60C,Fieldbus FBRS link error,2023/12/25 19:29:48,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+144,101,Controller power-on log,2023/12/25 08:06:58,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+145,60C,Fieldbus FBRS link error,2023/12/22 18:51:27,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+146,101,Controller power-on log,2023/12/22 07:32:12,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+147,60C,Fieldbus FBRS link error,2023/12/21 19:56:38,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+148,101,Controller power-on log,2023/12/21 14:39:17,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+149,60C,Fieldbus FBRS link error,2023/12/21 13:58:20,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+150,101,Controller power-on log,2023/12/21 08:35:47,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+151,60C,Fieldbus FBRS link error,2023/12/20 19:56:31,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+152,101,Controller power-on log,2023/12/20 07:15:41,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+153,60C,Fieldbus FBRS link error,2023/12/19 20:58:44,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+154,101,Controller power-on log,2023/12/19 08:32:17,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+155,60C,Fieldbus FBRS link error,2023/12/19 08:32:01,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+156,101,Controller power-on log,2023/12/19 07:46:54,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+157,60C,Fieldbus FBRS link error,2023/12/18 19:54:44,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+158,101,Controller power-on log,2023/12/18 09:50:52,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+159,60C,Fieldbus FBRS link error,2023/12/18 09:50:36,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+160,101,Controller power-on log,2023/12/18 07:57:09,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+161,60C,Fieldbus FBRS link error,2023/12/15 17:54:13,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+162,101,Controller power-on log,2023/12/15 07:56:36,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+163,60C,Fieldbus FBRS link error,2023/12/14 21:15:32,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+164,101,Controller power-on log,2023/12/14 07:02:08,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+165,60C,Fieldbus FBRS link error,2023/12/13 20:34:36,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+166,101,Controller power-on log,2023/12/13 08:21:16,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+167,60C,Fieldbus FBRS link error,2023/12/12 19:51:34,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+168,101,Controller power-on log,2023/12/12 09:47:00,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+169,60C,Fieldbus FBRS link error,2023/12/11 20:56:13,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+170,101,Controller power-on log,2023/12/11 07:55:22,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+171,60C,Fieldbus FBRS link error,2023/12/08 20:41:57,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+172,101,Controller power-on log,2023/12/08 20:22:21,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+173,60C,Fieldbus FBRS link error,2023/12/08 19:56:26,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+174,101,Controller power-on log,2023/12/08 15:44:49,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+175,60C,Fieldbus FBRS link error,2023/12/08 15:44:26,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+176,101,Controller power-on log,2023/12/08 07:54:34,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+177,60C,Fieldbus FBRS link error,2023/12/07 20:22:14,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+178,101,Controller power-on log,2023/12/07 08:51:01,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+179,60C,Fieldbus FBRS link error,2023/12/06 20:27:19,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+180,101,Controller power-on log,2023/12/06 08:30:10,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+181,60C,Fieldbus FBRS link error,2023/12/05 20:18:31,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+182,101,Controller power-on log,2023/12/05 07:56:19,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+183,60C,Fieldbus FBRS link error,2023/12/04 19:18:21,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+184,101,Controller power-on log,2023/12/04 10:22:00,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+185,60C,Fieldbus FBRS link error,2023/12/01 18:51:22,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+186,101,Controller power-on log,2023/12/01 08:01:43,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+187,60C,Fieldbus FBRS link error,2023/11/30 17:38:49,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+188,101,Controller power-on log,2023/11/30 06:32:42,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+189,60C,Fieldbus FBRS link error,2023/11/29 17:37:01,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+190,101,Controller power-on log,2023/11/29 08:04:08,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+191,60C,Fieldbus FBRS link error,2023/11/28 19:17:07,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+192,101,Controller power-on log,2023/11/28 07:58:39,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+193,60C,Fieldbus FBRS link error,2023/11/27 19:42:40,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+194,101,Controller power-on log,2023/11/27 07:58:17,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+195,60C,Fieldbus FBRS link error,2023/11/24 19:34:58,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+196,101,Controller power-on log,2023/11/24 08:49:25,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+197,60C,Fieldbus FBRS link error,2023/11/23 20:23:00,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+198,101,Controller power-on log,2023/11/23 06:55:03,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+199,60C,Fieldbus FBRS link error,2023/11/22 21:46:40,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+200,101,Controller power-on log,2023/11/22 08:05:11,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+201,60C,Fieldbus FBRS link error,2023/11/21 20:35:48,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+202,101,Controller power-on log,2023/11/21 09:02:35,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+203,60C,Fieldbus FBRS link error,2023/11/21 08:38:39,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+204,101,Controller power-on log,2023/11/21 07:19:41,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+205,60C,Fieldbus FBRS link error,2023/11/20 19:21:37,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+206,101,Controller power-on log,2023/11/20 10:07:01,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+207,60C,Fieldbus FBRS link error,2023/11/20 10:06:46,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+208,101,Controller power-on log,2023/11/20 10:04:19,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+209,60C,Fieldbus FBRS link error,2023/11/20 10:04:06,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+210,101,Controller power-on log,2023/11/20 08:05:24,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+211,60C,Fieldbus FBRS link error,2023/11/17 20:13:49,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+212,101,Controller power-on log,2023/11/17 10:42:01,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+213,60C,Fieldbus FBRS link error,2023/11/17 10:41:16,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+214,101,Controller power-on log,2023/11/17 10:33:52,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+215,60C,Fieldbus FBRS link error,2023/11/17 10:33:10,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+216,101,Controller power-on log,2023/11/17 10:32:25,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+217,60C,Fieldbus FBRS link error,2023/11/17 10:05:10,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+218,101,Controller power-on log,2023/11/17 07:31:12,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+219,60C,Fieldbus FBRS link error,2023/11/16 20:39:55,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+220,101,Controller power-on log,2023/11/16 06:21:33,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+221,60C,Fieldbus FBRS link error,2023/11/15 16:34:20,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+222,101,Controller power-on log,2023/11/15 12:29:01,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+223,60C,Fieldbus FBRS link error,2023/11/15 12:28:21,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+224,101,Controller power-on log,2023/11/15 12:16:55,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+225,60C,Fieldbus FBRS link error,2023/11/15 12:16:13,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+226,101,Controller power-on log,2023/11/15 07:49:21,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+227,60C,Fieldbus FBRS link error,2023/11/14 20:29:05,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+228,101,Controller power-on log,2023/11/14 08:12:57,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+229,60C,Fieldbus FBRS link error,2023/11/13 19:32:11,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+230,101,Controller power-on log,2023/11/13 16:00:20,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+231,60C,Fieldbus FBRS link error,2023/11/13 16:00:04,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+232,101,Controller power-on log,2023/11/13 13:18:59,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+233,60C,Fieldbus FBRS link error,2023/11/13 12:06:36,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+234,101,Controller power-on log,2023/11/13 07:51:01,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+235,60C,Fieldbus FBRS link error,2023/11/10 19:19:07,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+236,101,Controller power-on log,2023/11/10 07:52:08,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+237,60C,Fieldbus FBRS link error,2023/11/09 19:25:17,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+238,101,Controller power-on log,2023/11/09 06:33:36,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+239,60C,Fieldbus FBRS link error,2023/11/08 19:46:39,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+240,101,Controller power-on log,2023/11/08 08:44:16,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+241,60C,Fieldbus FBRS link error,2023/11/07 19:38:35,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+242,101,Controller power-on log,2023/11/07 07:44:07,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+243,60C,Fieldbus FBRS link error,2023/11/06 20:13:39,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+244,101,Controller power-on log,2023/11/06 07:10:40,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+245,60C,Fieldbus FBRS link error,2023/11/03 18:32:11,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+246,101,Controller power-on log,2023/11/03 07:59:19,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+247,60C,Fieldbus FBRS link error,2023/11/02 20:20:23,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+248,101,Controller power-on log,2023/11/02 08:42:17,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+249,60C,Fieldbus FBRS link error,2023/11/01 21:37:07,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+250,101,Controller power-on log,2023/11/01 07:46:11,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+251,60C,Fieldbus FBRS link error,2023/10/31 22:04:57,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+252,101,Controller power-on log,2023/10/31 07:07:59,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+253,60C,Fieldbus FBRS link error,2023/10/30 20:29:55,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+254,101,Controller power-on log,2023/10/30 08:11:58,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+255,60C,Fieldbus FBRS link error,2023/10/27 22:06:53,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+256,101,Controller power-on log,2023/10/27 08:46:58,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+257,60C,Fieldbus FBRS link error,2023/10/26 20:16:34,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+258,101,Controller power-on log,2023/10/26 06:48:20,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+259,60C,Fieldbus FBRS link error,2023/10/26 06:48:04,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+260,101,Controller power-on log,2023/10/26 06:38:58,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+261,60C,Fieldbus FBRS link error,2023/10/25 19:39:34,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+262,101,Controller power-on log,2023/10/25 08:11:29,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+263,60C,Fieldbus FBRS link error,2023/10/24 19:47:16,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+264,101,Controller power-on log,2023/10/24 14:59:13,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+265,60C,Fieldbus FBRS link error,2023/10/24 14:58:58,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+266,101,Controller power-on log,2023/10/24 07:51:14,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+267,60C,Fieldbus FBRS link error,2023/10/23 19:04:59,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+268,101,Controller power-on log,2023/10/23 09:58:57,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+269,60C,Fieldbus FBRS link error,2023/10/23 09:58:40,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+270,101,Controller power-on log,2023/10/23 08:03:41,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+271,60C,Fieldbus FBRS link error,2023/10/20 20:07:13,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+272,101,Controller power-on log,2023/10/20 10:41:00,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+273,60C,Fieldbus FBRS link error,2023/10/19 19:44:18,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+274,101,Controller power-on log,2023/10/19 19:38:49,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+275,60C,Fieldbus FBRS link error,2023/10/19 19:38:35,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+276,101,Controller power-on log,2023/10/19 17:54:35,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+277,60C,Fieldbus FBRS link error,2023/10/19 17:41:11,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+278,101,Controller power-on log,2023/10/19 06:54:15,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+279,60C,Fieldbus FBRS link error,2023/10/18 18:31:12,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+280,101,Controller power-on log,2023/10/18 08:32:36,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+281,60C,Fieldbus FBRS link error,2023/10/18 08:32:00,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+282,101,Controller power-on log,2023/10/18 08:25:23,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+283,60C,Fieldbus FBRS link error,2023/10/17 18:09:25,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+284,101,Controller power-on log,2023/10/17 17:43:45,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+285,60C,Fieldbus FBRS link error,2023/10/16 19:09:02,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+286,101,Controller power-on log,2023/10/16 18:28:20,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+287,60C,Fieldbus FBRS link error,2023/10/16 17:50:56,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+288,4AC,Current location soft limit over error,2023/10/16 09:14:17,0,0,2,1,0,0,0,C74h,D9h,C871h,11h,4441h
+289,101,Controller power-on log,2023/10/16 08:53:19,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+290,60C,Fieldbus FBRS link error,2023/10/12 10:05:37,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+291,101,Controller power-on log,2023/10/12 09:28:09,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+292,60C,Fieldbus FBRS link error,2023/10/12 09:27:49,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+293,4A3,Unsatisfied condition axis usage error,2023/10/12 09:27:28,0,0,1,1,1,0,0,CCEh,0h,0h,0h,0h
+294,4A3,Unsatisfied condition axis usage error,2023/10/12 09:26:25,0,0,1,1,1,0,0,CCEh,0h,0h,0h,0h
+295,4A3,Unsatisfied condition axis usage error,2023/10/12 09:25:50,0,0,1,1,1,0,0,CCEh,0h,0h,0h,0h
+296,61A,Overload error,2023/10/12 09:22:12,31,11,1,1,1,0,0,D0Ah,E0h,4EF1h,11h,4441h
+297,101,Controller power-on log,2023/10/12 08:33:45,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+298,60C,Fieldbus FBRS link error,2023/10/11 17:18:28,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+299,101,Controller power-on log,2023/10/11 08:32:18,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+300,60C,Fieldbus FBRS link error,2023/10/10 17:05:17,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+301,101,Controller power-on log,2023/10/10 16:20:19,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+302,60C,Fieldbus FBRS link error,2023/10/10 15:59:04,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+303,101,Controller power-on log,2023/10/10 10:07:25,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+304,60C,Fieldbus FBRS link error,2023/10/09 17:39:57,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+305,101,Controller power-on log,2023/10/09 08:04:40,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+306,60C,Fieldbus FBRS link error,2023/10/03 18:19:38,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+307,101,Controller power-on log,2023/10/03 08:06:15,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+308,60C,Fieldbus FBRS link error,2023/09/29 19:22:13,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+309,101,Controller power-on log,2023/09/29 12:45:17,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+310,60C,Fieldbus FBRS link error,2023/09/29 11:49:35,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+311,101,Controller power-on log,2023/09/29 09:27:32,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+312,60C,Fieldbus FBRS link error,2023/09/28 17:23:41,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+313,101,Controller power-on log,2023/09/28 08:08:23,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+314,60C,Fieldbus FBRS link error,2023/09/27 18:51:16,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+315,101,Controller power-on log,2023/09/27 16:45:08,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+316,60C,Fieldbus FBRS link error,2023/09/27 16:44:34,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+317,101,Controller power-on log,2023/09/27 12:57:59,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+318,60C,Fieldbus FBRS link error,2023/09/27 12:56:24,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+319,101,Controller power-on log,2023/09/27 12:48:59,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+320,60C,Fieldbus FBRS link error,2023/09/27 12:32:13,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+321,101,Controller power-on log,2023/09/27 12:31:49,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+322,60C,Fieldbus FBRS link error,2023/09/27 12:26:08,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+323,101,Controller power-on log,2023/09/27 12:18:27,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+324,60C,Fieldbus FBRS link error,2023/09/27 12:00:16,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+325,101,Controller power-on log,2023/09/27 11:48:15,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+326,60C,Fieldbus FBRS link error,2023/09/27 08:56:17,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+327,101,Controller power-on log,2023/09/27 08:52:18,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+328,60C,Fieldbus FBRS link error,2023/09/26 19:19:50,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+329,4AC,Current location soft limit over error,2023/09/26 15:25:29,0,0,1,2,2,0,0,C74h,D9h,4860h,10h,4441h
+330,101,Controller power-on log,2023/09/26 15:19:16,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+331,60C,Fieldbus FBRS link error,2023/09/26 15:17:39,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+332,4AC,Current location soft limit over error,2023/09/26 14:46:22,0,0,1,2,2,0,0,C74h,D9h,4860h,10h,4441h
+333,101,Controller power-on log,2023/09/26 11:03:54,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+334,60C,Fieldbus FBRS link error,2023/09/26 10:39:00,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+335,101,Controller power-on log,2023/09/26 10:28:49,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+336,60C,Fieldbus FBRS link error,2023/09/26 10:25:34,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+337,101,Controller power-on log,2023/09/26 10:02:52,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+338,60C,Fieldbus FBRS link error,2023/09/26 10:01:57,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+339,101,Controller power-on log,2023/09/26 09:32:30,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+340,60C,Fieldbus FBRS link error,2023/09/26 09:28:59,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+341,101,Controller power-on log,2023/09/26 09:20:27,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+342,60C,Fieldbus FBRS link error,2023/09/26 09:18:29,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+343,101,Controller power-on log,2023/09/26 09:09:29,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+344,60C,Fieldbus FBRS link error,2023/09/26 09:08:11,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+345,101,Controller power-on log,2023/09/26 09:04:54,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+346,60C,Fieldbus FBRS link error,2023/09/26 08:29:37,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+347,101,Controller power-on log,2023/09/26 08:22:31,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+348,60C,Fieldbus FBRS link error,2023/09/26 08:19:08,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+349,101,Controller power-on log,2023/09/26 08:15:36,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+350,60C,Fieldbus FBRS link error,2023/09/25 08:54:05,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+351,101,Controller power-on log,2023/09/25 08:40:18,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+352,60C,Fieldbus FBRS link error,2023/09/23 17:31:05,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+353,101,Controller power-on log,2023/09/23 08:36:34,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+354,60C,Fieldbus FBRS link error,2023/09/22 19:12:02,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+355,101,Controller power-on log,2023/09/22 08:11:42,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+356,60C,Fieldbus FBRS link error,2023/09/21 22:18:28,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+357,101,Controller power-on log,2023/09/21 10:33:47,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+358,60C,Fieldbus FBRS link error,2023/09/20 19:09:25,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+359,101,Controller power-on log,2023/09/20 19:00:04,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+360,60C,Fieldbus FBRS link error,2023/09/20 11:15:46,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+361,101,Controller power-on log,2023/09/20 11:12:28,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+362,60C,Fieldbus FBRS link error,2023/09/19 19:25:44,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+363,101,Controller power-on log,2023/09/19 15:33:59,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+364,60C,Fieldbus FBRS link error,2023/09/19 15:33:31,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+365,101,Controller power-on log,2023/09/19 15:22:24,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+366,60C,Fieldbus FBRS link error,2023/09/19 15:22:00,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+367,101,Controller power-on log,2023/09/19 08:57:21,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+368,60C,Fieldbus FBRS link error,2023/09/18 19:23:48,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+369,101,Controller power-on log,2023/09/18 19:16:35,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+370,60C,Fieldbus FBRS link error,2023/09/18 19:16:06,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+371,101,Controller power-on log,2023/09/18 19:08:50,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+372,60C,Fieldbus FBRS link error,2023/09/18 19:08:19,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+373,101,Controller power-on log,2023/09/18 19:00:12,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+374,60C,Fieldbus FBRS link error,2023/09/18 18:59:46,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+375,101,Controller power-on log,2023/09/18 18:54:49,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+376,60C,Fieldbus FBRS link error,2023/09/18 18:54:14,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+377,101,Controller power-on log,2023/09/18 18:49:22,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+378,60C,Fieldbus FBRS link error,2023/09/18 18:48:33,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+379,101,Controller power-on log,2023/09/18 18:25:04,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+380,60C,Fieldbus FBRS link error,2023/09/18 18:24:39,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+381,101,Controller power-on log,2023/09/18 09:37:58,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+382,60C,Fieldbus FBRS link error,2023/09/15 20:06:19,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+383,101,Controller power-on log,2023/09/15 08:07:56,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+384,60C,Fieldbus FBRS link error,2023/09/14 19:57:41,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+385,101,Controller power-on log,2023/09/14 08:36:38,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+386,60C,Fieldbus FBRS link error,2023/09/13 19:25:43,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+387,101,Controller power-on log,2023/09/13 07:59:06,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+388,60C,Fieldbus FBRS link error,2023/09/12 20:07:08,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+389,101,Controller power-on log,2023/09/12 10:38:59,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+390,60C,Fieldbus FBRS link error,2023/09/12 10:12:15,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+391,101,Controller power-on log,2023/09/12 10:00:35,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+392,60C,Fieldbus FBRS link error,2023/09/12 09:41:24,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+393,101,Controller power-on log,2023/09/12 08:40:10,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+394,60C,Fieldbus FBRS link error,2023/09/11 19:21:49,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+395,101,Controller power-on log,2023/09/11 09:04:46,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+396,60C,Fieldbus FBRS link error,2023/09/09 15:23:11,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+397,101,Controller power-on log,2023/09/09 09:16:29,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+398,60C,Fieldbus FBRS link error,2023/09/08 19:16:45,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+399,101,Controller power-on log,2023/09/08 15:46:12,0,0,0,0,0,0,0,824h,DCh,0h,0h,0h
+400,60C,Fieldbus FBRS link error,2023/09/08 15:20:21,0,0,0,0,0,0,0,D5Dh,160018h,1211h,0h,0h
+
+Axes Grp. No.,Axis No.,Unit No.,Drv. No.,Driver unit name,Version,Serial code,
+1,1,1,0,RCON-SC,AA17000D,B30330759       
+
+,Err,Message,Date,Addr.,Dtl. code
+1,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+2,="0E0",Overload,2023/10/12 09:22:11,----,="0000"
+3,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+4,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+5,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+6,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+7,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+8,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+9,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+10,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+11,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+12,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+13,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+14,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+15,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+16,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+17,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+18,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+19,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+20,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+21,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+22,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+23,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+24,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+25,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+26,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+27,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+28,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+29,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+30,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+31,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+32,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+
+Axes Grp. No.,Axis No.,Unit No.,Drv. No.,Driver unit name,Version,Serial code,
+1,2,2,0,RCON-SC,AA17000D,B30330762       
+
+,Err,Message,Date,Addr.,Dtl. code
+1,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+2,="0D9",Software stroke limit exceeded,2023/09/26 15:25:29,----,="0001"
+3,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+4,="0D9",Software stroke limit exceeded,2023/09/26 14:46:22,----,="0001"
+5,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+6,,,,,
+7,,,,,
+8,,,,,
+9,,,,,
+10,,,,,
+11,,,,,
+12,,,,,
+13,,,,,
+14,,,,,
+15,,,,,
+16,,,,,
+17,,,,,
+18,,,,,
+19,,,,,
+20,,,,,
+21,,,,,
+22,,,,,
+23,,,,,
+24,,,,,
+25,,,,,
+26,,,,,
+27,,,,,
+28,,,,,
+29,,,,,
+30,,,,,
+31,,,,,
+32,,,,,
+
+Axes Grp. No.,Axis No.,Unit No.,Drv. No.,Driver unit name,Version,Serial code,
+1,3,3,0,RCON-SC,AA17000D,B30330763       
+
+,Err,Message,Date,Addr.,Dtl. code
+1,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+2,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+3,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+4,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+5,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+6,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+7,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+8,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+9,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+10,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+11,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+12,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+13,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+14,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+15,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+16,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+17,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+18,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+19,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+20,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+21,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+22,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+23,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+24,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+25,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+26,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+27,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+28,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+29,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="0000"
+30,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+31,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+32,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+
+Axes Grp. No.,Axis No.,Unit No.,Drv. No.,Driver unit name,Version,Serial code,
+2,1,0,0,RCON-PC,AE5A000C,B30451463       
+
+,Err,Message,Date,Addr.,Dtl. code
+1,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="000C"
+2,="0C1",Servo Error,2024/06/07 17:17:52,----,="0000"
+3,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="000C"
+4,="0D9",Software stroke limit exceeded,2024/06/03 22:11:00,----,="0001"
+5,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="000C"
+6,="0C1",Servo Error,2024/05/30 19:31:33,----,="0000"
+7,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="000C"
+8,="0D9",Software stroke limit exceeded,2023/10/16 09:14:18,----,="0001"
+9,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="000C"
+10,="0EE",Absolute encoder error detection 2,2023/09/06 11:33:42,----,="0021"
+11,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0020"
+12,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="000C"
+13,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0022"
+14,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="000C"
+15,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0022"
+16,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="000C"
+17,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0022"
+18,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="000C"
+19,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0022"
+20,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="000C"
+21,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0022"
+22,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="000C"
+23,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0022"
+24,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="000C"
+25,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0022"
+26,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="000C"
+27,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0022"
+28,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="000C"
+29,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0022"
+30,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="000C"
+31,="0EE",Absolute encoder error detection 2,----/--/-- --:--:--,----,="0022"
+32,="FFF",PowerUP No Error,----/--/-- --:--:--,----,="000C"
